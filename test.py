@@ -47,5 +47,4 @@ def start(query: str, limit = 5):
 
 # MAIN
 if __name__ == "__main__":
-    start("What is our company's specialization?")
-    get_answer("When was company founded?")
+    start("When was company founded?")
